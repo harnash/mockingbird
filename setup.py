@@ -6,7 +6,7 @@ setup(
     packages=[''],
     url='https://github.com/harnash/mockingbird',
     license='MIT',
-    author='£ukasz Harasimowicz',
+    author='≈Åukasz Harasimowicz',
     author_email='lukasz@harnash.eu',
     description='',
     install_requires=[
