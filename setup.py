@@ -13,5 +13,7 @@ setup(
         # 'flask==1.0.0', for now just install from github
         'nose==1.3.7',
         'Flask-Restless==0.17.0',
+        'ujson==1.33',
+        'flask-restful==0.3.4',
     ]
 )
